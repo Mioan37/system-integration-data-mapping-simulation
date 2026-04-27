@@ -1,0 +1,4 @@
+sale_date,product_name,category,quantity_kg,unit_price,revenue,stock_start_kg,stock_end_kg,waste_kg
+2019-07-15,Sardines,Small Fish,12.5,6.0,75.0,15.0,2.5,0
+2019-07-15,Anchovies,Small Fish,9.0,5.5,49.5,10.0,1.0,0
+2019-07-15,Sea Bream,Premium Fish,4.0,14.0,56.0,4.5,0.5,0

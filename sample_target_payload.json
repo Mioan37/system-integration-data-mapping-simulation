@@ -1,0 +1,53 @@
+[
+  {
+    "transactionDate": "2019-07-15",
+    "product": {
+      "name": "Sardines",
+      "category": "Small Fish"
+    },
+    "sales": {
+      "quantityKg": 12.5,
+      "unitPrice": 6.0,
+      "totalRevenue": 75.0
+    },
+    "inventory": {
+      "openingStockKg": 15.0,
+      "closingStockKg": 2.5,
+      "wasteKg": 0
+    }
+  },
+  {
+    "transactionDate": "2019-07-15",
+    "product": {
+      "name": "Anchovies",
+      "category": "Small Fish"
+    },
+    "sales": {
+      "quantityKg": 9.0,
+      "unitPrice": 5.5,
+      "totalRevenue": 49.5
+    },
+    "inventory": {
+      "openingStockKg": 10.0,
+      "closingStockKg": 1.0,
+      "wasteKg": 0
+    }
+  },
+  {
+    "transactionDate": "2019-07-15",
+    "product": {
+      "name": "Sea Bream",
+      "category": "Premium Fish"
+    },
+    "sales": {
+      "quantityKg": 4.0,
+      "unitPrice": 14.0,
+      "totalRevenue": 56.0
+    },
+    "inventory": {
+      "openingStockKg": 4.5,
+      "closingStockKg": 0.5,
+      "wasteKg": 0
+    }
+  }
+]
